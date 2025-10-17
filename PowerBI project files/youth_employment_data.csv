@@ -1,0 +1,501 @@
+Participant_ID,Age,Gender,Region,Training_Program,Duration_Weeks,Completed,Employment_Status_Before,Employment_Status_After,Income_Before,Income_After,Income_Change,Skill_Level,Satisfaction_Rating
+P0001,24,Female,Lagos,Cybersecurity,9,Yes,Employed (Full-time),Employed (Full-time),156820,166618,9798,Beginner,8
+P0002,28,Female,Owerri,Web Development,9,Yes,Employed (Full-time),Employed (Full-time),121090,180804,59714,Beginner,7
+P0003,19,Male,Ilorin,Data Analytics,8,Yes,Unemployed,Employed (Part-time),0,69100,69100,Intermediate,8
+P0004,18,Male,Enugu,Data Analytics,8,Yes,Employed (Full-time),Employed (Full-time),186970,283739,96769,Intermediate,5
+P0005,27,Male,Port Harcourt,Cloud Computing,10,Yes,Unemployed,Self-employed,0,96178,96178,Intermediate,7
+P0006,20,Male,Enugu,Data Analytics,9,Yes,Unemployed,Employed (Part-time),0,51454,51454,Intermediate,8
+P0007,21,Female,Ilorin,Cloud Computing,10,Yes,Unemployed,Employed (Full-time),0,281714,281714,Intermediate,8
+P0008,19,Male,Abuja,UI/UX Design,7,Yes,Unemployed,Employed (Full-time),0,123232,123232,Advanced,10
+P0009,32,Male,Benin City,UI/UX Design,7,Yes,Unemployed,Employed (Part-time),0,53832,53832,Beginner,6
+P0010,19,Female,Owerri,UI/UX Design,6,Yes,Unemployed,Employed (Part-time),0,38161,38161,Intermediate,7
+P0011,35,Female,Benin City,Data Analytics,8,Yes,Employed (Full-time),Employed (Full-time),174663,149956,-24707,Intermediate,9
+P0012,25,Male,Port Harcourt,Cloud Computing,11,Yes,Unemployed,Employed (Part-time),0,50898,50898,Intermediate,8
+P0013,30,Male,Kano,UI/UX Design,8,Yes,Unemployed,Employed (Part-time),0,72351,72351,Intermediate,7
+P0014,26,Female,Benin City,UI/UX Design,7,No,Employed (Full-time),Self-employed,85258,59504,-25754,Beginner,5
+P0015,25,Male,Abuja,Digital Marketing,7,Yes,Self-employed,Employed (Full-time),46854,177680,130826,Intermediate,8
+P0016,26,Male,Ibadan,QA Testing,5,Yes,Student,Employed (Part-time),0,40520,40520,Beginner,7
+P0017,22,Female,Owerri,Cybersecurity,11,Yes,Employed (Part-time),Employed (Part-time),25056,63230,38174,Intermediate,9
+P0018,22,Male,Lagos,Cybersecurity,9,No,Self-employed,Self-employed,141626,139176,-2450,Beginner,6
+P0019,32,Male,Enugu,UI/UX Design,7,Yes,Self-employed,Self-employed,134238,77016,-57222,Intermediate,7
+P0020,24,Female,Owerri,Data Analytics,12,Yes,Unemployed,Self-employed,0,138465,138465,Beginner,6
+P0021,24,Male,Enugu,UI/UX Design,10,Yes,Student,Employed (Part-time),0,96385,96385,Beginner,7
+P0022,24,Male,Abuja,Digital Marketing,5,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0023,30,Male,Ilorin,Mobile Development,9,No,Student,Student,0,0,0,Beginner,4
+P0024,29,Female,Enugu,Mobile Development,12,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0025,24,Male,Abuja,UI/UX Design,8,Yes,Employed (Part-time),Employed (Part-time),26776,57476,30700,Intermediate,8
+P0026,30,Male,Port Harcourt,Data Analytics,4,Yes,Unemployed,Employed (Full-time),0,119076,119076,Advanced,8
+P0027,29,Female,Abuja,UI/UX Design,7,Yes,Unemployed,Employed (Full-time),0,182666,182666,Intermediate,7
+P0028,34,Female,Ilorin,QA Testing,6,Yes,Unemployed,Employed (Full-time),0,178615,178615,Beginner,7
+P0029,19,Female,Benin City,Mobile Development,9,Yes,Student,Self-employed,0,51409,51409,Beginner,8
+P0030,19,Female,Abuja,Data Analytics,7,Yes,Employed (Part-time),Employed (Part-time),27392,88748,61356,Advanced,8
+P0031,19,Male,Port Harcourt,QA Testing,4,Yes,Employed (Full-time),Employed (Full-time),143734,184537,40803,Intermediate,9
+P0032,28,Female,Abuja,QA Testing,4,Yes,Student,Student,0,0,0,Beginner,7
+P0033,22,Female,Owerri,Data Analytics,10,No,Student,Student,0,0,0,Intermediate,7
+P0034,33,Male,Kaduna,QA Testing,5,Yes,Unemployed,Employed (Full-time),0,162912,162912,Intermediate,8
+P0035,20,Non-binary,Enugu,QA Testing,9,Yes,Unemployed,Employed (Part-time),0,65729,65729,Advanced,9
+P0036,24,Female,Kaduna,Digital Marketing,7,Yes,Employed (Part-time),Employed (Part-time),55153,39722,-15431,Beginner,6
+P0037,18,Female,Lagos,Cloud Computing,12,Yes,Unemployed,Employed (Full-time),0,128705,128705,Advanced,9
+P0038,27,Male,Owerri,Web Development,13,Yes,Employed (Full-time),Employed (Full-time),187512,273059,85547,Beginner,6
+P0039,34,Female,Ibadan,Web Development,12,No,Unemployed,Unemployed,0,0,0,Beginner,4
+P0040,22,Male,Abuja,Mobile Development,10,Yes,Unemployed,Employed (Full-time),0,120923,120923,Intermediate,8
+P0041,33,Female,Benin City,UI/UX Design,9,Yes,Employed (Full-time),Employed (Full-time),112711,109869,-2842,Intermediate,9
+P0042,23,Male,Abuja,Data Analytics,9,Yes,Student,Employed (Part-time),0,69696,69696,Beginner,10
+P0043,20,Male,Enugu,Digital Marketing,6,No,Student,Student,0,0,0,Intermediate,1
+P0044,26,Male,Kano,QA Testing,4,Yes,Unemployed,Employed (Part-time),0,96640,96640,Advanced,7
+P0045,24,Female,Lagos,Cybersecurity,9,No,Employed (Full-time),Employed (Full-time),187450,109830,-77620,Intermediate,6
+P0046,31,Male,Abuja,Digital Marketing,6,Yes,Unemployed,Employed (Part-time),0,33984,33984,Intermediate,8
+P0047,19,Female,Enugu,QA Testing,8,Yes,Student,Student,0,0,0,Beginner,6
+P0048,18,Female,Enugu,Data Analytics,9,Yes,Self-employed,Self-employed,122946,142577,19631,Intermediate,6
+P0049,34,Male,Kaduna,Mobile Development,10,Yes,Employed (Full-time),Employed (Full-time),123525,176189,52664,Advanced,8
+P0050,22,Female,Kano,Data Analytics,8,Yes,Unemployed,Unemployed,0,0,0,Beginner,8
+P0051,20,Male,Enugu,Cloud Computing,9,No,Self-employed,Self-employed,105314,46641,-58673,Intermediate,4
+P0052,27,Female,Port Harcourt,UI/UX Design,8,Yes,Unemployed,Employed (Full-time),0,145625,145625,Advanced,8
+P0053,35,Female,Kano,UI/UX Design,8,Yes,Student,Student,0,0,0,Advanced,6
+P0054,34,Female,Lagos,Digital Marketing,7,Yes,Employed (Part-time),Employed (Part-time),69689,70129,440,Advanced,10
+P0055,35,Female,Port Harcourt,Cybersecurity,11,Yes,Unemployed,Unemployed,0,0,0,Intermediate,10
+P0056,18,Male,Kaduna,UI/UX Design,8,Yes,Student,Employed (Full-time),0,204610,204610,Advanced,7
+P0057,32,Female,Port Harcourt,Data Analytics,7,Yes,Unemployed,Employed (Full-time),0,240159,240159,Beginner,7
+P0058,34,Female,Benin City,Mobile Development,9,Yes,Self-employed,Self-employed,39508,25356,-14152,Intermediate,7
+P0059,29,Male,Enugu,Digital Marketing,5,Yes,Student,Employed (Full-time),0,188051,188051,Intermediate,8
+P0060,33,Male,Benin City,Mobile Development,10,Yes,Unemployed,Employed (Full-time),0,203172,203172,Intermediate,8
+P0061,22,Male,Ibadan,Data Analytics,11,Yes,Self-employed,Employed (Full-time),114841,122930,8089,Intermediate,7
+P0062,32,Female,Port Harcourt,Cloud Computing,10,Yes,Student,Student,0,0,0,Advanced,6
+P0063,25,Female,Abuja,Cybersecurity,10,Yes,Unemployed,Employed (Full-time),0,137281,137281,Intermediate,8
+P0064,22,Female,Port Harcourt,Mobile Development,8,Yes,Unemployed,Employed (Part-time),0,29346,29346,Beginner,10
+P0065,22,Female,Ibadan,Data Analytics,7,Yes,Employed (Part-time),Employed (Full-time),64078,194156,130078,Advanced,7
+P0066,31,Female,Benin City,QA Testing,5,Yes,Unemployed,Employed (Full-time),0,134142,134142,Advanced,9
+P0067,27,Female,Kano,Web Development,12,Yes,Unemployed,Employed (Part-time),0,45500,45500,Beginner,8
+P0068,21,Female,Port Harcourt,Cybersecurity,11,Yes,Employed (Full-time),Employed (Full-time),129115,208158,79043,Beginner,8
+P0069,29,Male,Kaduna,Web Development,14,Yes,Student,Employed (Part-time),0,66556,66556,Intermediate,6
+P0070,28,Male,Ibadan,UI/UX Design,8,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0071,27,Female,Abuja,Mobile Development,9,Yes,Self-employed,Self-employed,23373,179556,156183,Intermediate,6
+P0072,35,Male,Owerri,UI/UX Design,7,No,Employed (Full-time),Employed (Full-time),194585,236377,41792,Beginner,5
+P0073,19,Male,Owerri,Cloud Computing,10,No,Student,Student,0,0,0,Beginner,2
+P0074,35,Female,Owerri,Mobile Development,11,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0075,21,Female,Kaduna,QA Testing,7,Yes,Employed (Part-time),Employed (Part-time),68816,46756,-22060,Intermediate,7
+P0076,33,Female,Owerri,QA Testing,5,Yes,Employed (Part-time),Employed (Part-time),43190,35592,-7598,Beginner,7
+P0077,22,Male,Enugu,Cloud Computing,11,Yes,Unemployed,Unemployed,0,0,0,Beginner,6
+P0078,20,Male,Kano,UI/UX Design,10,Yes,Unemployed,Employed (Full-time),0,179669,179669,Intermediate,8
+P0079,34,Male,Ibadan,Mobile Development,9,No,Unemployed,Unemployed,0,0,0,Beginner,6
+P0080,32,Female,Ilorin,Mobile Development,12,Yes,Student,Employed (Full-time),0,239572,239572,Intermediate,10
+P0081,33,Female,Ibadan,UI/UX Design,7,Yes,Employed (Part-time),Employed (Part-time),29348,53585,24237,Intermediate,7
+P0082,28,Male,Ibadan,Digital Marketing,7,Yes,Student,Student,0,0,0,Advanced,8
+P0083,23,Female,Ibadan,Data Analytics,8,Yes,Unemployed,Employed (Part-time),0,57825,57825,Beginner,7
+P0084,19,Male,Benin City,UI/UX Design,10,Yes,Employed (Part-time),Employed (Part-time),57080,28956,-28124,Advanced,7
+P0085,21,Male,Ibadan,Cybersecurity,12,Yes,Unemployed,Employed (Part-time),0,84782,84782,Beginner,6
+P0086,24,Female,Port Harcourt,Web Development,13,Yes,Unemployed,Employed (Part-time),0,76430,76430,Advanced,7
+P0087,30,Male,Lagos,Digital Marketing,6,Yes,Unemployed,Employed (Full-time),0,269316,269316,Advanced,7
+P0088,26,Male,Enugu,Cloud Computing,11,Yes,Unemployed,Employed (Part-time),0,28054,28054,Beginner,9
+P0089,34,Female,Enugu,Web Development,12,Yes,Student,Employed (Part-time),0,29815,29815,Advanced,6
+P0090,29,Male,Port Harcourt,Web Development,12,Yes,Self-employed,Self-employed,40559,124735,84176,Intermediate,8
+P0091,28,Female,Enugu,Web Development,12,Yes,Unemployed,Self-employed,0,147471,147471,Beginner,8
+P0092,32,Female,Benin City,Web Development,14,Yes,Employed (Part-time),Employed (Part-time),62356,76556,14200,Advanced,9
+P0093,20,Female,Abuja,Mobile Development,10,No,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0094,25,Female,Ibadan,Digital Marketing,7,Yes,Student,Employed (Full-time),0,225155,225155,Advanced,6
+P0095,35,Female,Kaduna,QA Testing,5,Yes,Unemployed,Employed (Full-time),0,243558,243558,Advanced,6
+P0096,34,Female,Abuja,Cybersecurity,9,No,Employed (Part-time),Employed (Part-time),51471,42308,-9163,Beginner,2
+P0097,30,Female,Ibadan,Cloud Computing,8,Yes,Student,Self-employed,0,192351,192351,Beginner,10
+P0098,30,Male,Enugu,Cloud Computing,10,Yes,Unemployed,Unemployed,0,0,0,Advanced,6
+P0099,35,Female,Owerri,UI/UX Design,5,Yes,Unemployed,Unemployed,0,0,0,Intermediate,9
+P0100,34,Female,Kaduna,QA Testing,6,Yes,Employed (Full-time),Employed (Full-time),80384,103964,23580,Intermediate,9
+P0101,33,Male,Port Harcourt,Cybersecurity,10,Yes,Unemployed,Employed (Full-time),0,265571,265571,Intermediate,7
+P0102,23,Non-binary,Owerri,Cloud Computing,10,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0103,27,Male,Port Harcourt,Cloud Computing,9,Yes,Unemployed,Employed (Part-time),0,70141,70141,Beginner,8
+P0104,18,Male,Kaduna,Cybersecurity,10,Yes,Student,Employed (Part-time),0,69018,69018,Intermediate,8
+P0105,25,Male,Port Harcourt,Cybersecurity,8,Yes,Employed (Full-time),Employed (Full-time),94489,174658,80169,Beginner,9
+P0106,20,Female,Enugu,Data Analytics,10,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0107,22,Male,Kaduna,Web Development,11,Yes,Unemployed,Employed (Full-time),0,104939,104939,Intermediate,10
+P0108,31,Male,Lagos,Cybersecurity,9,No,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0109,19,Male,Abuja,Data Analytics,10,Yes,Self-employed,Self-employed,43386,105319,61933,Advanced,5
+P0110,23,Male,Port Harcourt,Web Development,13,Yes,Unemployed,Employed (Full-time),0,153051,153051,Intermediate,7
+P0111,22,Female,Ibadan,QA Testing,6,No,Employed (Part-time),Employed (Part-time),71984,44963,-27021,Beginner,7
+P0112,22,Male,Ilorin,Data Analytics,8,Yes,Unemployed,Employed (Part-time),0,67744,67744,Intermediate,8
+P0113,28,Male,Abuja,Digital Marketing,6,Yes,Unemployed,Employed (Full-time),0,261236,261236,Intermediate,7
+P0114,33,Female,Kaduna,Cybersecurity,8,Yes,Employed (Part-time),Employed (Part-time),38271,67137,28866,Intermediate,8
+P0115,35,Female,Abuja,UI/UX Design,6,No,Self-employed,Self-employed,107505,131195,23690,Beginner,5
+P0116,27,Female,Port Harcourt,Mobile Development,10,Yes,Employed (Part-time),Employed (Part-time),71745,74720,2975,Beginner,6
+P0117,31,Male,Kano,Web Development,10,Yes,Self-employed,Employed (Full-time),42574,260258,217684,Intermediate,6
+P0118,32,Female,Enugu,QA Testing,4,Yes,Unemployed,Employed (Part-time),0,32375,32375,Advanced,8
+P0119,21,Male,Kaduna,QA Testing,7,Yes,Employed (Full-time),Employed (Full-time),80302,254296,173994,Intermediate,8
+P0120,31,Male,Enugu,Data Analytics,6,Yes,Student,Employed (Part-time),0,45922,45922,Intermediate,9
+P0121,31,Female,Enugu,Data Analytics,9,Yes,Employed (Full-time),Employed (Full-time),147067,239237,92170,Intermediate,8
+P0122,23,Male,Enugu,Digital Marketing,4,No,Unemployed,Unemployed,0,0,0,Intermediate,5
+P0123,22,Female,Kaduna,Cloud Computing,10,Yes,Employed (Part-time),Employed (Part-time),26229,89972,63743,Beginner,6
+P0124,29,Male,Ibadan,QA Testing,5,Yes,Student,Employed (Part-time),0,35817,35817,Intermediate,6
+P0125,20,Male,Benin City,Cybersecurity,10,Yes,Student,Student,0,0,0,Intermediate,10
+P0126,19,Male,Lagos,QA Testing,9,Yes,Employed (Full-time),Employed (Full-time),161449,219392,57943,Intermediate,9
+P0127,22,Female,Kaduna,Data Analytics,10,Yes,Unemployed,Employed (Part-time),0,38683,38683,Intermediate,6
+P0128,30,Female,Abuja,Data Analytics,9,No,Unemployed,Employed (Part-time),0,51900,51900,Beginner,4
+P0129,23,Male,Lagos,Mobile Development,10,Yes,Student,Student,0,0,0,Advanced,5
+P0130,26,Male,Abuja,Digital Marketing,6,Yes,Unemployed,Employed (Full-time),0,191271,191271,Intermediate,7
+P0131,23,Female,Kaduna,UI/UX Design,9,Yes,Employed (Full-time),Employed (Full-time),187141,254367,67226,Beginner,7
+P0132,34,Female,Kano,Web Development,15,Yes,Self-employed,Self-employed,73441,22930,-50511,Intermediate,7
+P0133,28,Female,Owerri,Cybersecurity,7,Yes,Employed (Part-time),Employed (Part-time),26469,60615,34146,Intermediate,8
+P0134,21,Female,Kaduna,Digital Marketing,6,Yes,Unemployed,Employed (Full-time),0,250164,250164,Advanced,5
+P0135,18,Male,Benin City,UI/UX Design,6,No,Employed (Part-time),Employed (Part-time),40618,57254,16636,Beginner,6
+P0136,21,Female,Ibadan,Data Analytics,9,Yes,Unemployed,Employed (Part-time),0,92821,92821,Intermediate,5
+P0137,27,Non-binary,Kano,QA Testing,9,No,Employed (Full-time),Employed (Full-time),85287,98512,13225,Intermediate,8
+P0138,22,Male,Abuja,QA Testing,10,Yes,Student,Student,0,0,0,Beginner,7
+P0139,34,Male,Kano,Web Development,13,Yes,Student,Employed (Full-time),0,181060,181060,Intermediate,8
+P0140,28,Female,Benin City,Mobile Development,10,No,Unemployed,Unemployed,0,0,0,Intermediate,4
+P0141,25,Male,Owerri,Data Analytics,9,Yes,Employed (Part-time),Employed (Part-time),78658,50824,-27834,Intermediate,8
+P0142,22,Male,Port Harcourt,Web Development,13,Yes,Employed (Full-time),Employed (Full-time),100611,273764,173153,Intermediate,9
+P0143,30,Female,Kaduna,Digital Marketing,9,Yes,Student,Employed (Full-time),0,149167,149167,Advanced,8
+P0144,23,Male,Benin City,Mobile Development,7,Yes,Unemployed,Employed (Full-time),0,181387,181387,Advanced,9
+P0145,18,Male,Abuja,Mobile Development,11,Yes,Employed (Part-time),Employed (Full-time),46727,258853,212126,Advanced,5
+P0146,24,Male,Kaduna,Cybersecurity,8,Yes,Unemployed,Employed (Part-time),0,44411,44411,Intermediate,9
+P0147,32,Male,Owerri,Digital Marketing,7,Yes,Student,Student,0,0,0,Advanced,10
+P0148,21,Male,Ibadan,Cybersecurity,11,Yes,Employed (Part-time),Employed (Full-time),22243,125383,103140,Advanced,8
+P0149,19,Female,Abuja,UI/UX Design,9,Yes,Unemployed,Employed (Full-time),0,248092,248092,Intermediate,8
+P0150,30,Male,Ibadan,Cybersecurity,10,Yes,Student,Student,0,0,0,Advanced,6
+P0151,22,Female,Ilorin,QA Testing,4,Yes,Student,Student,0,0,0,Advanced,7
+P0152,21,Male,Benin City,UI/UX Design,6,Yes,Unemployed,Employed (Part-time),0,41027,41027,Intermediate,8
+P0153,27,Female,Kano,Web Development,10,No,Unemployed,Unemployed,0,0,0,Beginner,3
+P0154,31,Male,Ilorin,Cloud Computing,11,Yes,Employed (Full-time),Employed (Full-time),189777,123473,-66304,Intermediate,8
+P0155,18,Female,Kano,UI/UX Design,8,Yes,Unemployed,Self-employed,0,88306,88306,Advanced,8
+P0156,22,Female,Enugu,Digital Marketing,5,Yes,Self-employed,Self-employed,129945,82693,-47252,Intermediate,8
+P0157,31,Female,Benin City,Web Development,11,Yes,Employed (Full-time),Employed (Full-time),81645,246197,164552,Advanced,7
+P0158,18,Male,Ibadan,Cloud Computing,10,Yes,Unemployed,Employed (Full-time),0,181980,181980,Beginner,9
+P0159,32,Male,Enugu,Mobile Development,10,Yes,Student,Student,0,0,0,Beginner,7
+P0160,26,Male,Lagos,Cloud Computing,10,No,Employed (Part-time),Employed (Part-time),27973,33577,5604,Beginner,3
+P0161,24,Female,Enugu,Mobile Development,12,Yes,Employed (Full-time),Employed (Full-time),191530,151701,-39829,Beginner,7
+P0162,29,Non-binary,Abuja,Web Development,12,Yes,Unemployed,Employed (Full-time),0,126449,126449,Intermediate,8
+P0163,18,Female,Owerri,Mobile Development,12,Yes,Unemployed,Self-employed,0,177613,177613,Advanced,5
+P0164,35,Female,Kaduna,Mobile Development,8,No,Employed (Part-time),Employed (Part-time),69840,62011,-7829,Beginner,5
+P0165,25,Male,Kaduna,UI/UX Design,12,Yes,Employed (Full-time),Employed (Full-time),172374,257087,84713,Intermediate,8
+P0166,34,Female,Benin City,Data Analytics,8,Yes,Employed (Full-time),Employed (Full-time),98449,177188,78739,Beginner,7
+P0167,32,Female,Kaduna,Web Development,16,Yes,Unemployed,Employed (Full-time),0,116707,116707,Beginner,10
+P0168,23,Female,Port Harcourt,Digital Marketing,5,Yes,Employed (Part-time),Employed (Part-time),32342,72386,40044,Advanced,8
+P0169,20,Female,Ilorin,UI/UX Design,6,Yes,Employed (Part-time),Employed (Part-time),72603,95048,22445,Advanced,7
+P0170,35,Female,Ilorin,Data Analytics,8,Yes,Student,Student,0,0,0,Advanced,9
+P0171,20,Female,Kano,Web Development,13,Yes,Employed (Full-time),Employed (Full-time),136373,186596,50223,Beginner,6
+P0172,18,Female,Port Harcourt,Cloud Computing,13,Yes,Employed (Part-time),Employed (Part-time),41591,62503,20912,Beginner,8
+P0173,31,Male,Abuja,Web Development,11,Yes,Self-employed,Self-employed,141300,117617,-23683,Intermediate,9
+P0174,33,Male,Owerri,UI/UX Design,8,No,Employed (Full-time),Employed (Full-time),140500,241151,100651,Beginner,3
+P0175,21,Female,Owerri,Cybersecurity,12,Yes,Student,Self-employed,0,47559,47559,Beginner,9
+P0176,28,Male,Ibadan,Mobile Development,9,Yes,Unemployed,Employed (Part-time),0,86507,86507,Beginner,6
+P0177,22,Male,Ilorin,Digital Marketing,8,Yes,Employed (Part-time),Employed (Part-time),27083,88151,61068,Intermediate,7
+P0178,29,Female,Benin City,Mobile Development,11,No,Unemployed,Unemployed,0,0,0,Beginner,4
+P0179,34,Female,Abuja,Web Development,15,Yes,Unemployed,Unemployed,0,0,0,Advanced,5
+P0180,19,Female,Port Harcourt,Mobile Development,8,Yes,Employed (Part-time),Employed (Full-time),71693,237749,166056,Intermediate,8
+P0181,30,Male,Ibadan,Web Development,14,Yes,Employed (Part-time),Employed (Part-time),79519,94894,15375,Intermediate,9
+P0182,27,Female,Kaduna,Web Development,10,Yes,Employed (Full-time),Employed (Full-time),177432,243603,66171,Intermediate,8
+P0183,29,Female,Benin City,Digital Marketing,6,Yes,Unemployed,Self-employed,0,74716,74716,Intermediate,9
+P0184,24,Male,Abuja,Mobile Development,12,Yes,Unemployed,Employed (Part-time),0,59810,59810,Advanced,8
+P0185,31,Female,Enugu,Cybersecurity,9,Yes,Unemployed,Self-employed,0,80603,80603,Intermediate,8
+P0186,28,Female,Port Harcourt,Web Development,11,Yes,Unemployed,Unemployed,0,0,0,Beginner,6
+P0187,24,Male,Port Harcourt,Mobile Development,11,Yes,Student,Employed (Part-time),0,30482,30482,Intermediate,8
+P0188,22,Female,Lagos,Cybersecurity,7,Yes,Employed (Part-time),Employed (Part-time),68594,29438,-39156,Advanced,7
+P0189,28,Female,Benin City,Data Analytics,9,Yes,Employed (Full-time),Employed (Full-time),180424,120805,-59619,Intermediate,6
+P0190,25,Male,Lagos,Web Development,12,Yes,Employed (Part-time),Employed (Part-time),75337,77088,1751,Intermediate,10
+P0191,24,Male,Benin City,Cybersecurity,11,Yes,Self-employed,Self-employed,41520,62048,20528,Intermediate,7
+P0192,34,Male,Lagos,Digital Marketing,6,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0193,25,Male,Ibadan,QA Testing,8,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0194,33,Male,Benin City,Mobile Development,9,Yes,Unemployed,Employed (Full-time),0,192572,192572,Intermediate,8
+P0195,26,Male,Port Harcourt,Mobile Development,11,No,Employed (Full-time),Employed (Full-time),136276,109541,-26735,Beginner,5
+P0196,24,Female,Kano,Cybersecurity,11,Yes,Employed (Full-time),Employed (Full-time),174934,261980,87046,Intermediate,7
+P0197,24,Male,Kano,Mobile Development,12,Yes,Employed (Part-time),Employed (Part-time),44077,37811,-6266,Intermediate,5
+P0198,20,Female,Benin City,Web Development,11,Yes,Unemployed,Unemployed,0,0,0,Intermediate,10
+P0199,28,Male,Abuja,Cloud Computing,12,Yes,Unemployed,Employed (Part-time),0,90030,90030,Intermediate,6
+P0200,34,Male,Lagos,Cloud Computing,13,Yes,Student,Student,0,0,0,Intermediate,8
+P0201,18,Female,Benin City,Web Development,12,Yes,Employed (Full-time),Employed (Full-time),154038,245660,91622,Intermediate,9
+P0202,27,Male,Abuja,Mobile Development,9,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0203,24,Female,Abuja,Web Development,16,Yes,Employed (Full-time),Employed (Full-time),90616,221564,130948,Advanced,7
+P0204,24,Male,Kano,UI/UX Design,11,Yes,Employed (Part-time),Employed (Full-time),64460,142522,78062,Beginner,8
+P0205,35,Male,Abuja,Digital Marketing,4,No,Unemployed,Self-employed,0,186472,186472,Beginner,3
+P0206,32,Female,Kaduna,Cloud Computing,12,Yes,Unemployed,Employed (Full-time),0,152951,152951,Beginner,6
+P0207,22,Male,Enugu,Cybersecurity,11,Yes,Unemployed,Unemployed,0,0,0,Beginner,7
+P0208,28,Male,Lagos,Data Analytics,8,Yes,Employed (Part-time),Employed (Part-time),68988,45027,-23961,Intermediate,8
+P0209,30,Female,Abuja,Mobile Development,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,7
+P0210,23,Female,Kaduna,UI/UX Design,9,Yes,Unemployed,Employed (Full-time),0,157090,157090,Beginner,9
+P0211,20,Male,Benin City,Web Development,13,Yes,Employed (Full-time),Employed (Full-time),164386,283471,119085,Intermediate,10
+P0212,34,Male,Kaduna,Digital Marketing,7,Yes,Student,Employed (Full-time),0,111880,111880,Advanced,7
+P0213,32,Female,Lagos,Cloud Computing,10,Yes,Employed (Full-time),Employed (Full-time),123642,178434,54792,Intermediate,9
+P0214,20,Male,Ilorin,Digital Marketing,7,Yes,Unemployed,Employed (Full-time),0,161121,161121,Intermediate,9
+P0215,19,Female,Ibadan,Digital Marketing,4,Yes,Student,Employed (Full-time),0,258800,258800,Intermediate,6
+P0216,33,Female,Kano,Web Development,11,Yes,Unemployed,Employed (Full-time),0,257705,257705,Intermediate,7
+P0217,22,Male,Port Harcourt,Cloud Computing,10,No,Unemployed,Unemployed,0,0,0,Beginner,6
+P0218,20,Male,Abuja,Cybersecurity,12,Yes,Employed (Full-time),Employed (Full-time),179616,246289,66673,Advanced,6
+P0219,33,Female,Owerri,Data Analytics,9,Yes,Student,Student,0,0,0,Intermediate,8
+P0220,26,Female,Kano,Digital Marketing,4,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0221,21,Female,Kaduna,Data Analytics,10,Yes,Unemployed,Employed (Full-time),0,159705,159705,Intermediate,8
+P0222,30,Male,Kaduna,UI/UX Design,8,Yes,Employed (Part-time),Employed (Part-time),56509,74287,17778,Advanced,8
+P0223,35,Male,Port Harcourt,Cloud Computing,11,Yes,Unemployed,Employed (Full-time),0,190569,190569,Advanced,8
+P0224,30,Female,Owerri,Mobile Development,10,No,Self-employed,Self-employed,51966,164059,112093,Intermediate,5
+P0225,30,Male,Enugu,Data Analytics,8,Yes,Student,Student,0,0,0,Intermediate,8
+P0226,27,Male,Owerri,Web Development,14,Yes,Self-employed,Self-employed,120686,122492,1806,Intermediate,7
+P0227,22,Female,Kano,Mobile Development,9,Yes,Student,Employed (Part-time),0,82711,82711,Advanced,8
+P0228,29,Female,Ibadan,Data Analytics,8,Yes,Unemployed,Employed (Full-time),0,127595,127595,Beginner,7
+P0229,35,Male,Benin City,Web Development,13,Yes,Unemployed,Employed (Part-time),0,91575,91575,Beginner,7
+P0230,18,Male,Kaduna,Digital Marketing,6,Yes,Unemployed,Unemployed,0,0,0,Intermediate,5
+P0231,19,Female,Lagos,Cybersecurity,8,Yes,Employed (Full-time),Employed (Full-time),121846,190821,68975,Advanced,5
+P0232,28,Female,Ibadan,Web Development,14,Yes,Employed (Part-time),Employed (Part-time),72048,76354,4306,Beginner,9
+P0233,29,Male,Ilorin,QA Testing,4,Yes,Self-employed,Self-employed,135621,188159,52538,Intermediate,7
+P0234,19,Female,Owerri,UI/UX Design,6,Yes,Employed (Part-time),Employed (Part-time),38639,49493,10854,Beginner,9
+P0235,25,Male,Ilorin,Mobile Development,9,Yes,Unemployed,Employed (Full-time),0,264250,264250,Intermediate,7
+P0236,32,Female,Owerri,Data Analytics,10,Yes,Unemployed,Employed (Part-time),0,95466,95466,Advanced,5
+P0237,29,Male,Lagos,Cloud Computing,12,Yes,Employed (Part-time),Employed (Part-time),79597,97836,18239,Intermediate,8
+P0238,34,Female,Ilorin,Cloud Computing,8,Yes,Unemployed,Employed (Full-time),0,178773,178773,Intermediate,8
+P0239,19,Female,Kaduna,QA Testing,5,Yes,Self-employed,Self-employed,122471,195427,72956,Beginner,9
+P0240,35,Female,Kaduna,Data Analytics,12,Yes,Employed (Full-time),Employed (Full-time),101804,177431,75627,Beginner,7
+P0241,23,Male,Enugu,Mobile Development,10,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0242,26,Female,Port Harcourt,Cybersecurity,10,Yes,Self-employed,Self-employed,68787,61036,-7751,Advanced,6
+P0243,27,Male,Abuja,Cloud Computing,10,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0244,18,Female,Benin City,Digital Marketing,5,Yes,Unemployed,Employed (Part-time),0,44577,44577,Intermediate,9
+P0245,24,Female,Ibadan,Web Development,13,Yes,Student,Student,0,0,0,Beginner,6
+P0246,27,Male,Abuja,Web Development,14,Yes,Employed (Part-time),Employed (Full-time),59685,239006,179321,Intermediate,9
+P0247,24,Female,Kano,QA Testing,4,Yes,Employed (Full-time),Employed (Full-time),182215,284465,102250,Advanced,9
+P0248,32,Male,Ibadan,Cybersecurity,10,Yes,Self-employed,Self-employed,94137,59028,-35109,Beginner,9
+P0249,20,Female,Ibadan,Cloud Computing,13,Yes,Unemployed,Employed (Full-time),0,230104,230104,Beginner,7
+P0250,30,Female,Kaduna,Data Analytics,12,Yes,Employed (Part-time),Employed (Part-time),78093,85336,7243,Intermediate,7
+P0251,30,Male,Ilorin,Data Analytics,9,Yes,Unemployed,Self-employed,0,148493,148493,Advanced,7
+P0252,29,Male,Abuja,Digital Marketing,9,Yes,Unemployed,Employed (Part-time),0,80826,80826,Intermediate,8
+P0253,26,Male,Kano,QA Testing,5,Yes,Student,Employed (Full-time),0,122255,122255,Advanced,7
+P0254,32,Female,Port Harcourt,Cybersecurity,10,Yes,Student,Student,0,0,0,Intermediate,5
+P0255,22,Male,Abuja,QA Testing,4,Yes,Unemployed,Unemployed,0,0,0,Advanced,6
+P0256,35,Female,Benin City,Cloud Computing,10,Yes,Unemployed,Employed (Full-time),0,139822,139822,Intermediate,9
+P0257,21,Male,Kano,Cloud Computing,8,Yes,Employed (Full-time),Employed (Full-time),122229,203149,80920,Intermediate,7
+P0258,29,Male,Kaduna,Data Analytics,7,Yes,Unemployed,Unemployed,0,0,0,Intermediate,5
+P0259,18,Non-binary,Kano,Web Development,13,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0260,27,Male,Ibadan,Mobile Development,10,Yes,Employed (Full-time),Employed (Full-time),115133,213967,98834,Advanced,7
+P0261,32,Female,Kaduna,QA Testing,8,Yes,Employed (Part-time),Employed (Part-time),23814,77982,54168,Advanced,10
+P0262,34,Female,Ilorin,Digital Marketing,7,Yes,Employed (Full-time),Employed (Full-time),199044,270056,71012,Intermediate,7
+P0263,25,Female,Abuja,Digital Marketing,4,Yes,Employed (Full-time),Employed (Full-time),184734,239377,54643,Advanced,9
+P0264,27,Male,Owerri,Cybersecurity,7,Yes,Employed (Part-time),Employed (Part-time),62240,34403,-27837,Intermediate,8
+P0265,25,Female,Kano,Cybersecurity,12,Yes,Employed (Full-time),Employed (Full-time),151635,227473,75838,Intermediate,9
+P0266,28,Female,Ilorin,Digital Marketing,7,Yes,Unemployed,Employed (Part-time),0,67469,67469,Intermediate,9
+P0267,29,Female,Lagos,Data Analytics,10,Yes,Student,Student,0,0,0,Advanced,7
+P0268,35,Male,Port Harcourt,Mobile Development,8,Yes,Employed (Full-time),Employed (Full-time),183482,264812,81330,Advanced,8
+P0269,31,Female,Enugu,QA Testing,5,Yes,Self-employed,Self-employed,123674,161639,37965,Intermediate,9
+P0270,35,Male,Lagos,Digital Marketing,6,Yes,Unemployed,Employed (Full-time),0,111055,111055,Intermediate,8
+P0271,35,Male,Benin City,Cloud Computing,11,No,Employed (Full-time),Employed (Full-time),184061,122556,-61505,Beginner,1
+P0272,33,Female,Benin City,UI/UX Design,8,Yes,Employed (Part-time),Employed (Full-time),62324,244959,182635,Intermediate,8
+P0273,25,Male,Enugu,Mobile Development,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,7
+P0274,32,Female,Benin City,Cloud Computing,11,Yes,Employed (Full-time),Employed (Full-time),168009,136418,-31591,Advanced,8
+P0275,34,Male,Enugu,QA Testing,6,Yes,Student,Student,0,0,0,Intermediate,8
+P0276,25,Female,Port Harcourt,Cloud Computing,11,Yes,Employed (Part-time),Employed (Part-time),62287,42218,-20069,Intermediate,8
+P0277,26,Female,Kaduna,Cybersecurity,10,Yes,Self-employed,Self-employed,126437,28274,-98163,Intermediate,7
+P0278,18,Female,Benin City,Mobile Development,12,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0279,30,Male,Owerri,Cybersecurity,9,Yes,Unemployed,Self-employed,0,54081,54081,Advanced,7
+P0280,21,Male,Ilorin,Web Development,14,Yes,Employed (Full-time),Employed (Full-time),179304,283472,104168,Intermediate,8
+P0281,30,Non-binary,Owerri,Cloud Computing,10,Yes,Employed (Full-time),Employed (Full-time),171736,163212,-8524,Intermediate,8
+P0282,32,Male,Lagos,Data Analytics,10,Yes,Employed (Part-time),Employed (Part-time),32178,66707,34529,Intermediate,9
+P0283,18,Male,Ilorin,Digital Marketing,5,Yes,Unemployed,Employed (Full-time),0,176466,176466,Advanced,6
+P0284,28,Female,Enugu,Cloud Computing,12,Yes,Unemployed,Self-employed,0,107333,107333,Intermediate,9
+P0285,20,Female,Kaduna,Data Analytics,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0286,29,Female,Lagos,QA Testing,6,Yes,Unemployed,Employed (Part-time),0,79000,79000,Intermediate,6
+P0287,32,Male,Lagos,QA Testing,8,Yes,Unemployed,Unemployed,0,0,0,Intermediate,5
+P0288,29,Female,Kano,UI/UX Design,9,Yes,Student,Employed (Full-time),0,264474,264474,Beginner,8
+P0289,32,Male,Kano,Mobile Development,10,Yes,Unemployed,Employed (Part-time),0,78554,78554,Advanced,6
+P0290,21,Female,Lagos,Digital Marketing,5,Yes,Unemployed,Employed (Part-time),0,35083,35083,Intermediate,6
+P0291,20,Male,Kano,QA Testing,5,No,Employed (Part-time),Employed (Part-time),32289,69976,37687,Beginner,5
+P0292,30,Female,Enugu,QA Testing,5,Yes,Employed (Part-time),Employed (Full-time),68478,186976,118498,Intermediate,7
+P0293,24,Male,Enugu,Cybersecurity,11,Yes,Unemployed,Employed (Full-time),0,241195,241195,Intermediate,7
+P0294,21,Female,Enugu,Cybersecurity,9,Yes,Unemployed,Unemployed,0,0,0,Intermediate,7
+P0295,29,Non-binary,Benin City,Digital Marketing,6,Yes,Employed (Part-time),Employed (Part-time),35222,53535,18313,Intermediate,7
+P0296,26,Male,Kaduna,Cybersecurity,11,Yes,Employed (Part-time),Employed (Full-time),58520,190196,131676,Advanced,9
+P0297,27,Male,Owerri,Cybersecurity,10,Yes,Unemployed,Employed (Full-time),0,142696,142696,Intermediate,8
+P0298,21,Female,Owerri,UI/UX Design,9,Yes,Employed (Full-time),Employed (Full-time),116041,205757,89716,Intermediate,7
+P0299,35,Female,Abuja,Digital Marketing,5,Yes,Unemployed,Employed (Part-time),0,95722,95722,Intermediate,8
+P0300,32,Female,Kaduna,QA Testing,7,Yes,Self-employed,Self-employed,100532,76014,-24518,Intermediate,7
+P0301,33,Male,Lagos,Web Development,10,Yes,Employed (Part-time),Employed (Part-time),46122,91292,45170,Intermediate,7
+P0302,26,Female,Lagos,Digital Marketing,8,Yes,Self-employed,Self-employed,119073,41499,-77574,Advanced,5
+P0303,20,Male,Ibadan,QA Testing,9,Yes,Unemployed,Employed (Part-time),0,52980,52980,Intermediate,9
+P0304,24,Male,Enugu,Web Development,14,No,Employed (Part-time),Employed (Part-time),53893,35793,-18100,Beginner,4
+P0305,24,Female,Owerri,QA Testing,5,No,Employed (Full-time),Employed (Full-time),153379,235282,81903,Beginner,6
+P0306,26,Male,Abuja,Cloud Computing,8,Yes,Unemployed,Employed (Full-time),0,236204,236204,Beginner,7
+P0307,30,Female,Enugu,UI/UX Design,7,Yes,Student,Student,0,0,0,Advanced,8
+P0308,25,Female,Owerri,Cloud Computing,10,Yes,Unemployed,Employed (Full-time),0,155379,155379,Beginner,9
+P0309,20,Male,Port Harcourt,Data Analytics,6,Yes,Employed (Part-time),Employed (Part-time),29686,79064,49378,Advanced,6
+P0310,25,Female,Enugu,Data Analytics,7,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0311,32,Female,Kaduna,Cybersecurity,10,Yes,Unemployed,Employed (Part-time),0,64240,64240,Advanced,6
+P0312,33,Female,Abuja,Cybersecurity,10,Yes,Employed (Part-time),Employed (Part-time),27446,68432,40986,Advanced,8
+P0313,25,Male,Kaduna,Cloud Computing,9,Yes,Unemployed,Self-employed,0,180913,180913,Intermediate,8
+P0314,23,Female,Port Harcourt,UI/UX Design,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,7
+P0315,33,Female,Owerri,Cloud Computing,8,Yes,Unemployed,Employed (Full-time),0,272820,272820,Intermediate,8
+P0316,18,Male,Ilorin,Digital Marketing,5,Yes,Student,Employed (Full-time),0,144422,144422,Intermediate,6
+P0317,26,Female,Kaduna,Web Development,14,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0318,21,Male,Ibadan,QA Testing,7,Yes,Unemployed,Employed (Part-time),0,54800,54800,Intermediate,9
+P0319,27,Male,Enugu,Data Analytics,4,Yes,Unemployed,Employed (Full-time),0,204088,204088,Intermediate,8
+P0320,20,Male,Lagos,Web Development,13,No,Unemployed,Unemployed,0,0,0,Beginner,8
+P0321,20,Male,Kano,Mobile Development,9,Yes,Student,Employed (Full-time),0,232322,232322,Advanced,9
+P0322,20,Male,Abuja,Digital Marketing,7,Yes,Employed (Part-time),Employed (Part-time),58675,88273,29598,Beginner,6
+P0323,27,Female,Owerri,Digital Marketing,6,Yes,Employed (Part-time),Employed (Part-time),73411,36614,-36797,Beginner,8
+P0324,31,Male,Enugu,QA Testing,5,Yes,Unemployed,Unemployed,0,0,0,Intermediate,9
+P0325,23,Female,Port Harcourt,QA Testing,5,Yes,Employed (Part-time),Employed (Full-time),59905,123449,63544,Advanced,6
+P0326,32,Female,Abuja,Data Analytics,8,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0327,30,Female,Lagos,UI/UX Design,9,Yes,Employed (Full-time),Employed (Full-time),157866,202709,44843,Beginner,7
+P0328,19,Female,Lagos,UI/UX Design,7,Yes,Unemployed,Employed (Full-time),0,152849,152849,Intermediate,8
+P0329,27,Female,Lagos,Digital Marketing,6,Yes,Employed (Part-time),Employed (Part-time),46526,87259,40733,Advanced,6
+P0330,32,Female,Benin City,Cloud Computing,9,Yes,Student,Student,0,0,0,Advanced,7
+P0331,18,Female,Ibadan,Cybersecurity,10,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0332,24,Female,Kano,Mobile Development,9,Yes,Employed (Full-time),Employed (Full-time),182821,169060,-13761,Intermediate,7
+P0333,22,Female,Ibadan,Cloud Computing,10,Yes,Unemployed,Employed (Full-time),0,214790,214790,Beginner,9
+P0334,31,Female,Port Harcourt,UI/UX Design,7,Yes,Unemployed,Unemployed,0,0,0,Advanced,6
+P0335,19,Female,Owerri,Mobile Development,10,No,Unemployed,Unemployed,0,0,0,Beginner,3
+P0336,27,Male,Port Harcourt,Cloud Computing,9,Yes,Student,Student,0,0,0,Advanced,8
+P0337,30,Male,Port Harcourt,Data Analytics,8,Yes,Unemployed,Employed (Part-time),0,32774,32774,Advanced,8
+P0338,28,Male,Ilorin,UI/UX Design,10,Yes,Student,Employed (Full-time),0,206863,206863,Advanced,7
+P0339,21,Male,Port Harcourt,Web Development,11,Yes,Self-employed,Self-employed,92930,181640,88710,Advanced,8
+P0340,23,Female,Port Harcourt,Mobile Development,11,No,Unemployed,Unemployed,0,0,0,Beginner,4
+P0341,34,Male,Owerri,Cloud Computing,11,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0342,33,Male,Kaduna,Cloud Computing,11,No,Unemployed,Self-employed,0,142811,142811,Beginner,4
+P0343,25,Female,Kano,Data Analytics,11,Yes,Student,Student,0,0,0,Intermediate,7
+P0344,25,Male,Kano,UI/UX Design,9,Yes,Unemployed,Employed (Part-time),0,89641,89641,Intermediate,7
+P0345,22,Female,Benin City,Cybersecurity,10,Yes,Unemployed,Self-employed,0,89012,89012,Intermediate,10
+P0346,28,Female,Kaduna,Digital Marketing,8,Yes,Unemployed,Employed (Full-time),0,199626,199626,Intermediate,8
+P0347,25,Male,Owerri,Data Analytics,6,Yes,Self-employed,Self-employed,130990,159968,28978,Beginner,6
+P0348,28,Female,Lagos,Data Analytics,10,Yes,Self-employed,Self-employed,96295,172162,75867,Intermediate,5
+P0349,27,Female,Lagos,UI/UX Design,9,Yes,Unemployed,Employed (Part-time),0,93870,93870,Intermediate,9
+P0350,20,Female,Kaduna,QA Testing,6,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0351,26,Male,Enugu,Cybersecurity,10,Yes,Self-employed,Self-employed,66857,60460,-6397,Intermediate,8
+P0352,21,Female,Kano,Web Development,14,No,Unemployed,Unemployed,0,0,0,Beginner,7
+P0353,19,Female,Enugu,Cloud Computing,9,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0354,26,Male,Ilorin,UI/UX Design,6,No,Employed (Part-time),Employed (Part-time),59896,36889,-23007,Beginner,1
+P0355,29,Female,Lagos,Web Development,12,Yes,Unemployed,Self-employed,0,107573,107573,Intermediate,7
+P0356,24,Female,Kano,Web Development,13,Yes,Unemployed,Employed (Part-time),0,43136,43136,Intermediate,7
+P0357,31,Female,Abuja,Data Analytics,9,Yes,Student,Student,0,0,0,Intermediate,8
+P0358,28,Female,Enugu,Data Analytics,10,No,Unemployed,Unemployed,0,0,0,Beginner,3
+P0359,30,Female,Lagos,Digital Marketing,6,No,Employed (Part-time),Employed (Part-time),44858,73689,28831,Intermediate,4
+P0360,32,Female,Ibadan,Web Development,14,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0361,28,Female,Owerri,Cloud Computing,11,Yes,Unemployed,Self-employed,0,186019,186019,Advanced,9
+P0362,24,Female,Abuja,Cloud Computing,12,Yes,Unemployed,Employed (Part-time),0,52429,52429,Intermediate,8
+P0363,27,Female,Ilorin,Mobile Development,12,No,Employed (Part-time),Employed (Part-time),69666,41832,-27834,Beginner,5
+P0364,21,Female,Kaduna,QA Testing,6,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0365,28,Male,Ilorin,Mobile Development,12,Yes,Unemployed,Unemployed,0,0,0,Advanced,6
+P0366,19,Female,Abuja,Cybersecurity,12,Yes,Unemployed,Employed (Part-time),0,79971,79971,Intermediate,7
+P0367,27,Male,Abuja,Web Development,11,Yes,Employed (Part-time),Employed (Part-time),43928,44416,488,Intermediate,8
+P0368,28,Male,Kano,Web Development,13,Yes,Unemployed,Employed (Full-time),0,281559,281559,Intermediate,8
+P0369,22,Male,Benin City,Web Development,12,Yes,Self-employed,Self-employed,38313,146492,108179,Advanced,6
+P0370,20,Male,Ibadan,Mobile Development,11,Yes,Unemployed,Employed (Full-time),0,241102,241102,Advanced,6
+P0371,27,Male,Owerri,Digital Marketing,4,Yes,Employed (Full-time),Employed (Full-time),95379,135430,40051,Intermediate,9
+P0372,24,Male,Kano,Web Development,15,Yes,Employed (Part-time),Employed (Full-time),73583,280941,207358,Intermediate,7
+P0373,21,Female,Benin City,Cybersecurity,10,No,Unemployed,Unemployed,0,0,0,Beginner,3
+P0374,34,Female,Kaduna,Web Development,11,Yes,Employed (Full-time),Employed (Full-time),142539,279322,136783,Intermediate,8
+P0375,23,Female,Ibadan,Cloud Computing,11,Yes,Unemployed,Employed (Part-time),0,45148,45148,Intermediate,7
+P0376,21,Female,Enugu,Cloud Computing,11,Yes,Unemployed,Employed (Full-time),0,217504,217504,Beginner,7
+P0377,34,Male,Benin City,Cybersecurity,12,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0378,30,Female,Benin City,Mobile Development,11,Yes,Self-employed,Self-employed,148046,199458,51412,Intermediate,6
+P0379,31,Female,Port Harcourt,Digital Marketing,7,Yes,Unemployed,Unemployed,0,0,0,Advanced,9
+P0380,22,Male,Port Harcourt,QA Testing,5,Yes,Self-employed,Self-employed,74220,125188,50968,Beginner,6
+P0381,30,Female,Ibadan,QA Testing,7,Yes,Employed (Part-time),Employed (Part-time),37833,55134,17301,Intermediate,8
+P0382,31,Male,Ibadan,Mobile Development,9,Yes,Student,Employed (Full-time),0,152907,152907,Intermediate,6
+P0383,34,Male,Ibadan,Data Analytics,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,7
+P0384,21,Female,Abuja,Web Development,12,Yes,Unemployed,Employed (Full-time),0,248096,248096,Intermediate,8
+P0385,31,Male,Ibadan,Cloud Computing,9,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0386,21,Male,Owerri,UI/UX Design,7,Yes,Unemployed,Unemployed,0,0,0,Advanced,6
+P0387,27,Female,Owerri,Digital Marketing,7,Yes,Employed (Full-time),Employed (Full-time),112972,160692,47720,Beginner,7
+P0388,29,Male,Abuja,Web Development,12,Yes,Unemployed,Employed (Full-time),0,150402,150402,Intermediate,7
+P0389,28,Female,Owerri,QA Testing,6,Yes,Employed (Full-time),Employed (Full-time),177798,246447,68649,Intermediate,6
+P0390,35,Male,Abuja,Cybersecurity,11,Yes,Unemployed,Employed (Full-time),0,178742,178742,Intermediate,10
+P0391,27,Male,Kano,UI/UX Design,9,Yes,Unemployed,Self-employed,0,188887,188887,Intermediate,8
+P0392,35,Male,Kaduna,UI/UX Design,9,Yes,Unemployed,Employed (Full-time),0,134467,134467,Intermediate,7
+P0393,29,Male,Ilorin,UI/UX Design,7,Yes,Unemployed,Employed (Full-time),0,282130,282130,Intermediate,7
+P0394,27,Male,Abuja,Web Development,12,Yes,Unemployed,Employed (Full-time),0,216029,216029,Beginner,7
+P0395,19,Male,Kaduna,Cloud Computing,12,Yes,Unemployed,Unemployed,0,0,0,Intermediate,5
+P0396,34,Male,Kaduna,Digital Marketing,5,Yes,Unemployed,Employed (Full-time),0,183061,183061,Intermediate,8
+P0397,27,Male,Kano,Cloud Computing,11,Yes,Employed (Part-time),Employed (Part-time),50575,41494,-9081,Beginner,9
+P0398,24,Female,Owerri,Mobile Development,9,Yes,Employed (Full-time),Employed (Full-time),110651,184232,73581,Intermediate,8
+P0399,27,Male,Owerri,Digital Marketing,4,Yes,Unemployed,Unemployed,0,0,0,Beginner,7
+P0400,21,Male,Kaduna,Data Analytics,8,Yes,Student,Employed (Full-time),0,214438,214438,Beginner,9
+P0401,32,Male,Owerri,QA Testing,6,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0402,34,Male,Kano,Web Development,13,Yes,Self-employed,Self-employed,61971,42523,-19448,Intermediate,7
+P0403,23,Male,Port Harcourt,Cybersecurity,9,Yes,Unemployed,Employed (Part-time),0,69645,69645,Advanced,5
+P0404,22,Female,Abuja,Web Development,9,Yes,Unemployed,Unemployed,0,0,0,Advanced,8
+P0405,21,Female,Lagos,QA Testing,5,Yes,Student,Student,0,0,0,Beginner,6
+P0406,32,Female,Port Harcourt,Cybersecurity,10,Yes,Employed (Full-time),Employed (Full-time),109139,201761,92622,Intermediate,9
+P0407,29,Female,Abuja,QA Testing,7,Yes,Employed (Full-time),Employed (Full-time),80282,256415,176133,Advanced,6
+P0408,25,Male,Ilorin,Cloud Computing,14,Yes,Unemployed,Employed (Full-time),0,141887,141887,Intermediate,8
+P0409,33,Female,Port Harcourt,Data Analytics,8,Yes,Unemployed,Self-employed,0,159127,159127,Intermediate,6
+P0410,26,Male,Enugu,Cybersecurity,10,Yes,Student,Self-employed,0,193844,193844,Intermediate,9
+P0411,30,Female,Abuja,Digital Marketing,4,No,Self-employed,Self-employed,148734,46170,-102564,Intermediate,5
+P0412,22,Non-binary,Kano,Digital Marketing,8,Yes,Unemployed,Unemployed,0,0,0,Advanced,10
+P0413,19,Female,Ibadan,QA Testing,5,Yes,Unemployed,Unemployed,0,0,0,Intermediate,6
+P0414,26,Male,Abuja,Web Development,12,Yes,Unemployed,Unemployed,0,0,0,Intermediate,9
+P0415,29,Female,Kaduna,QA Testing,4,Yes,Employed (Full-time),Employed (Full-time),126037,114247,-11790,Advanced,9
+P0416,29,Female,Kaduna,Cloud Computing,9,Yes,Self-employed,Self-employed,105751,122488,16737,Intermediate,7
+P0417,18,Female,Port Harcourt,QA Testing,5,Yes,Self-employed,Self-employed,33230,198089,164859,Intermediate,7
+P0418,28,Female,Ilorin,QA Testing,8,Yes,Student,Employed (Part-time),0,35178,35178,Beginner,9
+P0419,29,Female,Kaduna,Data Analytics,9,Yes,Student,Student,0,0,0,Intermediate,7
+P0420,33,Male,Ibadan,UI/UX Design,8,No,Student,Unemployed,0,0,0,Beginner,3
+P0421,32,Female,Enugu,Web Development,12,Yes,Employed (Part-time),Employed (Part-time),41447,67757,26310,Intermediate,7
+P0422,20,Female,Kano,Data Analytics,8,Yes,Employed (Part-time),Employed (Part-time),76510,68635,-7875,Intermediate,10
+P0423,20,Male,Abuja,Web Development,11,Yes,Unemployed,Unemployed,0,0,0,Beginner,9
+P0424,21,Male,Kaduna,Data Analytics,9,Yes,Employed (Part-time),Employed (Part-time),49516,89678,40162,Beginner,8
+P0425,35,Female,Kano,QA Testing,7,Yes,Unemployed,Employed (Part-time),0,92191,92191,Beginner,8
+P0426,19,Male,Enugu,Digital Marketing,4,Yes,Self-employed,Self-employed,94567,38540,-56027,Advanced,5
+P0427,20,Female,Kano,Web Development,14,Yes,Employed (Full-time),Employed (Full-time),188400,263975,75575,Intermediate,7
+P0428,25,Male,Port Harcourt,Digital Marketing,6,No,Unemployed,Unemployed,0,0,0,Beginner,5
+P0429,33,Male,Abuja,Digital Marketing,7,Yes,Unemployed,Unemployed,0,0,0,Intermediate,9
+P0430,30,Female,Benin City,Digital Marketing,7,Yes,Unemployed,Employed (Full-time),0,163463,163463,Intermediate,7
+P0431,31,Female,Enugu,Data Analytics,7,Yes,Unemployed,Employed (Full-time),0,153492,153492,Intermediate,7
+P0432,26,Male,Ibadan,Cybersecurity,10,Yes,Self-employed,Self-employed,148202,126530,-21672,Advanced,7
+P0433,20,Male,Ibadan,Web Development,13,Yes,Unemployed,Employed (Full-time),0,112997,112997,Advanced,6
+P0434,25,Male,Benin City,Cloud Computing,9,Yes,Student,Employed (Part-time),0,96904,96904,Intermediate,8
+P0435,33,Female,Kaduna,Web Development,13,Yes,Employed (Full-time),Employed (Full-time),134306,179761,45455,Intermediate,7
+P0436,31,Male,Lagos,Mobile Development,10,Yes,Unemployed,Employed (Full-time),0,170939,170939,Intermediate,9
+P0437,22,Female,Abuja,Digital Marketing,5,Yes,Employed (Part-time),Employed (Full-time),39900,156863,116963,Intermediate,8
+P0438,20,Male,Kano,Cloud Computing,11,Yes,Unemployed,Employed (Part-time),0,57150,57150,Intermediate,10
+P0439,29,Male,Ibadan,UI/UX Design,6,Yes,Employed (Full-time),Employed (Full-time),168668,270984,102316,Intermediate,7
+P0440,23,Male,Ilorin,Data Analytics,10,Yes,Unemployed,Employed (Part-time),0,47148,47148,Beginner,8
+P0441,21,Female,Lagos,Digital Marketing,6,Yes,Employed (Part-time),Employed (Part-time),20193,65752,45559,Intermediate,5
+P0442,19,Female,Enugu,Digital Marketing,7,Yes,Unemployed,Employed (Part-time),0,49927,49927,Intermediate,7
+P0443,23,Male,Lagos,Cloud Computing,10,Yes,Employed (Part-time),Employed (Part-time),66546,49318,-17228,Beginner,7
+P0444,27,Female,Ilorin,Web Development,10,Yes,Unemployed,Self-employed,0,127660,127660,Beginner,7
+P0445,34,Female,Kano,Cloud Computing,10,Yes,Self-employed,Employed (Full-time),78557,123674,45117,Advanced,8
+P0446,28,Female,Abuja,UI/UX Design,7,Yes,Employed (Full-time),Employed (Full-time),83828,237654,153826,Advanced,8
+P0447,27,Male,Lagos,QA Testing,7,Yes,Student,Employed (Full-time),0,184515,184515,Advanced,7
+P0448,26,Male,Ibadan,UI/UX Design,8,Yes,Unemployed,Unemployed,0,0,0,Intermediate,9
+P0449,26,Male,Abuja,Cloud Computing,10,Yes,Unemployed,Unemployed,0,0,0,Beginner,7
+P0450,30,Male,Owerri,Data Analytics,6,No,Employed (Full-time),Employed (Full-time),158279,243504,85225,Beginner,2
+P0451,30,Male,Enugu,Cloud Computing,11,Yes,Unemployed,Employed (Full-time),0,179701,179701,Intermediate,8
+P0452,34,Female,Ilorin,UI/UX Design,10,Yes,Unemployed,Employed (Full-time),0,107805,107805,Advanced,9
+P0453,21,Male,Owerri,UI/UX Design,7,Yes,Student,Employed (Full-time),0,194270,194270,Intermediate,7
+P0454,34,Female,Lagos,Cloud Computing,11,Yes,Unemployed,Self-employed,0,116732,116732,Advanced,7
+P0455,27,Female,Abuja,UI/UX Design,10,Yes,Employed (Part-time),Employed (Full-time),32497,184223,151726,Intermediate,5
+P0456,26,Male,Kano,Cybersecurity,11,Yes,Student,Student,0,0,0,Advanced,8
+P0457,19,Male,Benin City,QA Testing,8,No,Employed (Full-time),Employed (Full-time),102785,249741,146956,Beginner,5
+P0458,29,Male,Ibadan,Web Development,12,Yes,Employed (Full-time),Employed (Full-time),111705,189708,78003,Intermediate,5
+P0459,34,Male,Enugu,Cybersecurity,10,Yes,Student,Student,0,0,0,Intermediate,6
+P0460,23,Female,Benin City,Cloud Computing,11,Yes,Employed (Part-time),Employed (Part-time),55426,67394,11968,Advanced,9
+P0461,26,Male,Ilorin,Web Development,14,Yes,Employed (Full-time),Employed (Full-time),122849,218646,95797,Intermediate,7
+P0462,20,Male,Owerri,Cloud Computing,13,No,Employed (Part-time),Employed (Part-time),71222,41743,-29479,Beginner,2
+P0463,28,Male,Abuja,Web Development,9,Yes,Unemployed,Self-employed,0,113910,113910,Advanced,9
+P0464,18,Female,Lagos,UI/UX Design,10,Yes,Employed (Part-time),Employed (Full-time),36390,182623,146233,Beginner,10
+P0465,22,Male,Benin City,Mobile Development,10,Yes,Unemployed,Employed (Full-time),0,239155,239155,Advanced,8
+P0466,35,Male,Ibadan,QA Testing,4,Yes,Unemployed,Employed (Full-time),0,211982,211982,Beginner,9
+P0467,28,Female,Abuja,Data Analytics,10,Yes,Self-employed,Self-employed,20929,122732,101803,Intermediate,6
+P0468,29,Male,Ibadan,Cloud Computing,9,Yes,Student,Employed (Full-time),0,262362,262362,Intermediate,8
+P0469,20,Female,Abuja,Data Analytics,8,No,Employed (Full-time),Self-employed,127093,188298,61205,Intermediate,5
+P0470,27,Male,Benin City,Web Development,10,Yes,Unemployed,Employed (Full-time),0,256727,256727,Intermediate,6
+P0471,22,Female,Ibadan,QA Testing,6,Yes,Unemployed,Unemployed,0,0,0,Beginner,8
+P0472,21,Male,Kano,Cybersecurity,10,Yes,Student,Employed (Full-time),0,127118,127118,Intermediate,8
+P0473,32,Male,Enugu,QA Testing,6,Yes,Unemployed,Employed (Full-time),0,113339,113339,Intermediate,8
+P0474,20,Male,Port Harcourt,UI/UX Design,6,Yes,Self-employed,Self-employed,20340,214523,194183,Advanced,6
+P0475,29,Non-binary,Benin City,QA Testing,7,Yes,Unemployed,Employed (Part-time),0,49324,49324,Intermediate,7
+P0476,20,Male,Kano,Data Analytics,8,Yes,Employed (Part-time),Employed (Part-time),59420,88624,29204,Advanced,7
+P0477,20,Female,Lagos,QA Testing,6,Yes,Self-employed,Self-employed,125209,115229,-9980,Advanced,9
+P0478,22,Female,Abuja,UI/UX Design,7,Yes,Employed (Part-time),Employed (Part-time),55428,74988,19560,Advanced,8
+P0479,19,Female,Lagos,UI/UX Design,8,Yes,Student,Student,0,0,0,Intermediate,10
+P0480,28,Female,Kano,Digital Marketing,5,Yes,Employed (Part-time),Employed (Part-time),21960,28112,6152,Intermediate,8
+P0481,29,Male,Ilorin,Data Analytics,7,Yes,Unemployed,Unemployed,0,0,0,Intermediate,8
+P0482,23,Male,Port Harcourt,QA Testing,4,Yes,Employed (Full-time),Employed (Full-time),108064,244734,136670,Beginner,9
+P0483,32,Male,Ilorin,UI/UX Design,9,Yes,Unemployed,Employed (Full-time),0,145249,145249,Intermediate,8
+P0484,31,Female,Benin City,Digital Marketing,4,No,Self-employed,Self-employed,48398,61862,13464,Beginner,2
+P0485,30,Male,Ilorin,Digital Marketing,6,Yes,Self-employed,Employed (Full-time),125388,112718,-12670,Advanced,7
+P0486,34,Female,Benin City,Mobile Development,11,Yes,Employed (Part-time),Employed (Part-time),46910,54522,7612,Intermediate,5
+P0487,33,Female,Ibadan,QA Testing,9,Yes,Employed (Full-time),Employed (Full-time),97611,267968,170357,Advanced,8
+P0488,20,Female,Ilorin,Cloud Computing,11,Yes,Unemployed,Employed (Full-time),0,266751,266751,Intermediate,8
+P0489,20,Female,Kano,Digital Marketing,7,Yes,Student,Student,0,0,0,Advanced,8
+P0490,22,Male,Ilorin,Data Analytics,9,Yes,Employed (Part-time),Employed (Part-time),49218,38976,-10242,Advanced,8
+P0491,25,Female,Ilorin,Web Development,14,No,Employed (Full-time),Employed (Full-time),88605,190318,101713,Beginner,3
+P0492,23,Male,Benin City,Digital Marketing,7,Yes,Student,Student,0,0,0,Advanced,5
+P0493,30,Female,Benin City,QA Testing,6,Yes,Employed (Part-time),Employed (Part-time),35271,33853,-1418,Intermediate,8
+P0494,19,Male,Abuja,Data Analytics,9,Yes,Unemployed,Employed (Full-time),0,231197,231197,Beginner,9
+P0495,30,Male,Ibadan,Cloud Computing,8,Yes,Employed (Full-time),Employed (Full-time),148487,274498,126011,Intermediate,8
+P0496,31,Female,Port Harcourt,Digital Marketing,5,Yes,Self-employed,Employed (Full-time),43782,136222,92440,Beginner,7
+P0497,18,Male,Enugu,Web Development,10,Yes,Employed (Full-time),Employed (Full-time),191668,246311,54643,Intermediate,8
+P0498,34,Female,Owerri,Web Development,13,Yes,Student,Employed (Part-time),0,53938,53938,Intermediate,8
+P0499,25,Male,Kano,Mobile Development,13,Yes,Employed (Full-time),Employed (Full-time),111921,224087,112166,Intermediate,8
+P0500,31,Male,Owerri,Cybersecurity,11,Yes,Employed (Part-time),Employed (Part-time),75998,48060,-27938,Beginner,8
