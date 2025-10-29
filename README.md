@@ -4,12 +4,12 @@
 
 This Power BI project explores how digital skills training influences youth employment outcomes, income changes, and satisfaction across regions.
 
-📊 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
+##📊 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 - Interactive slicers for Region, Gender, and Training Program  
 - KPIs showing total participants and income improvement  
 - Visuals tracking skill levels, gender distribution, and satisfaction  
 
-📂 𝗙𝗶𝗹𝗲𝘀
+##📂 𝗙𝗶𝗹𝗲𝘀
 - `Youth_Employment.pbix` — Power BI report file  
 - `youth_employment_data.csv` — dataset (for learning/demo purposes)  
 - `dashboard_preview.png` — dashboard screenshot  
