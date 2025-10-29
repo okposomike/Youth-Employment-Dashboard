@@ -15,3 +15,8 @@ This Power BI project explores how digital skills training influences youth empl
 (𝘿𝙖𝙩𝙖𝙨𝙚𝙩 𝙞𝙨 𝙨𝙮𝙣𝙩𝙝𝙚𝙩𝙞𝙘 𝙖𝙣𝙙 𝙪𝙨𝙚𝙙 𝙛𝙤𝙧 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙥𝙪𝙧𝙥𝙤𝙨𝙚𝙨 𝙤𝙣𝙡𝙮.)
 
 
+## Author:
+
+**Michael Okposo | Data Analyst | SQL • Python • Power BI •**
+
+ 📫 [Connect with me on LinkedIn]https://linkedin.com/in/okposo-michael-b0b99224a
